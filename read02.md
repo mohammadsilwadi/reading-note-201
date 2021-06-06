@@ -22,11 +22,11 @@ h5>
 h6>
 HTML has six "levels" of
 headings.
-<p>
+### p>
 To create a paragraph, surround
 the words that make up the
-paragraph with an opening <p>
-tag and closing </p> tag.
+paragraph with an opening p>
+tag and closing /p> tag.
 
 #### Bold, italic, emphasis
 #### b>
