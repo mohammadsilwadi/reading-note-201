@@ -6,7 +6,7 @@
 # **Basics of HTML**
 ### **Text**
 
-#### tow types of text markup 
+#### 2 types of text markup 
 * Structural markup: the elements that you can use to
 describe both headings and paragraphs
 - Semantic markup: which provides extra information; such
@@ -138,12 +138,12 @@ css.
 When building a site with more
 than one page, you should use
 an external CSS style sheet. This:
-●● Allows all pages to use the
+* Allows all pages to use the
 same style rules (rather than
 repeating them in each page).
-●● Keeps the content separate
+* Keeps the content separate
 from how the page looks.
-●● Means you can change the
+- Means you can change the
 styles used across all pages
 by altering just one file
 (rather than each individual
