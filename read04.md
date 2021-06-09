@@ -34,6 +34,40 @@ HTML5 Semantic Elements.
     <'details> - Defines additional details that the user can open and close on demand
     <'summary> - Defines a heading for the <details> element
 ![Box-Model](https://www.w3schools.com/html/img_sem_elements.gif)
+### **Normal Flow**
+In normal flow, each block-level
+element sits on top of the next
+one. Since this is the default
+way in which browsers treat
+HTML elements, you do not
+need a CSS property to indicate
+that elements should appear
+in normal flow.
+### **Relative Positioning**
+Relative positioning moves an
+element in relation to where it
+would have been in normal flow.
+### **Absolute Positioning**
+When the position property
+is given a value of absolute,
+the box is taken out of normal
+flow and no longer affects the
+position of other elements on
+the page. (They act like it is not
+there.)
+### **Fixed Positioning**
+Fixed positioning is a type
+of absolute positioning that
+requires the position property
+to have a value of fixed.
+It positions the element in
+relation to the browser window.
+Therefore, when a user scrolls
+down the page, it stays in the
+exact same place. It is a good
+idea to try this example in your
+browser to see the effect.
+
 
 
 # **Functions, Methods, and Objects**.
