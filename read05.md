@@ -3,7 +3,7 @@
 There are several things to consider when selecting and
 preparing images for your site, but taking time to get them
 right will make it look more attractive and professional.
-In this chapter you will learn how to:
+consdier these things when you add imges:
 
 + Include an image in your web pages using HTML
 
