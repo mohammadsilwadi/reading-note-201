@@ -41,3 +41,6 @@ As a browser loads a web page, it creates a model of t hat page. The model is ca
 + An element node can contain multiple text nodes and child elements that are siblings of each other.
 + In older browsers, implementation of the DOM is inconsistent.
 + Browsers offer tools for viewing the DOM tree .
+
+## Problem Domain
+
