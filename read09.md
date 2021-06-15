@@ -116,33 +116,29 @@ HTML5 provides a special
 search input.
 
 ## Lists, Tables & Forms
-###  Table Properties
+###  Table Style
 
-You have already met several
-properties that are commonly
-used with tables. Here we will
-put them together in a single
-example using the following:
-width to set the width of the
-table
 
 padding to set the space
 between the border of each table
 cell and its content
+
 text-transform to convert the
 content of the table headers to
-uppercase
+uppercase.
 
 letter-spacing, font-size
 to add additional styling to the
-content of the table headers
+content of the table headers.
+
 border-top, border-bottom
 to set borders above and below
 the table headers .
 
 text-align to align the writing
 to the left of some table cells and
-to the right of the others
+to the right of the others.
+
 background-color to change
 the background color of the
 alternating table rows. 
