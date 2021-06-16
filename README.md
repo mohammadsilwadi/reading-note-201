@@ -24,7 +24,7 @@
 
 * [Forms and Events.](https://mohammadsilwadi.github.io/reading-note-201/read09)
 
-* [JS Debugging.](https://mohammadsilwadi.github.io/reading-note-201/read010)
+* [JS Debugging.](https://mohammadsilwadi.github.io/reading-note-201/read10)
 
 * [Assorted Topics.](https://mohammadsilwadi.github.io/reading-note-201/read11)
 
