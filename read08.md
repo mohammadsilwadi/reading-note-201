@@ -28,7 +28,7 @@ HTML5 Semantic Elements.
     <'summary> - Defines a heading for the <details> element
 ![Box-Model](https://www.w3schools.com/html/img_sem_elements.gif)
 
-### **Normal Flow**
+## **Normal Flow**
 
 In normal flow, each block-level
 element sits on top of the next
