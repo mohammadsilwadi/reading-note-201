@@ -114,7 +114,7 @@ will also help your images show
 up in the results of image-based 
 searches.
 
-7: Page Descriptions
+7. Page Descriptions
 The description also lives inside 
 the <;head> element and is 
 specified using a <;meta> tag. 
