@@ -84,9 +84,7 @@ The name of the file is part of
 the URL. Where possible, use 
 keywords in the file name.
 
-3. Headings
-If the keywords are in a heading 
-<hn;> element then a search 
+3. Headings  If the keywords are in a heading <hn;> element then a search 
 engine will know that this page is 
 all about that subject and give it 
 greater weight than other text.
