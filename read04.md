@@ -24,7 +24,7 @@ CSS Float Layout
 
 It is common to do entire web layouts using the CSS float property. Float is easy to learn - you just need to remember how the float and clear properties work. Disadvantages: Floating elements are tied to the document flow, which may harm the flexibility. Learn more about float in our CSS Float and Clear chapter.
 HTML has several semantic elements that define the different parts of a web page:
-HTML5 Semantic Elements. 
+HTML5 Semantic Elements.  
 
     <'header> - Defines a header for a document or a section
     <'nav> - Defines a set of navigation links
@@ -36,7 +36,7 @@ HTML5 Semantic Elements.
     <'summary> - Defines a heading for the <details> element
 ![Box-Model](https://www.w3schools.com/html/img_sem_elements.gif)
 
-### **Normal Flow**
+# **Normal Flow**
 
 In normal flow, each block-level
 element sits on top of the next
@@ -47,7 +47,7 @@ need a CSS property to indicate
 that elements should appear
 in normal flow.
 
-### **Relative Positioning**
+## **Relative Positioning**
 
 Relative positioning moves an
 element in relation to where it
