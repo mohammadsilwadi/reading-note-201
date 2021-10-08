@@ -16,7 +16,7 @@ We will therefore be including
 one in each example for the rest
 of the book.*
 
-**In HTML 5 we use** <! DOCTYPE html > .
+**In HTML 5 we use** <! DOCTYPE html .> .
 
 **Comments in HTML >** *If you want to add a comment
 to your code that will not be
